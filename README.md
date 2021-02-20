@@ -1,4 +1,4 @@
-# final
+#SweetHome-Home Finder App
 ### Sweet Home
 This website was create by Yihong Wang for CS5610 Web Development at Northeastern (https://johnguerra.co/classes/webDevelopment_fall_2020/)
 
